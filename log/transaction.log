@@ -1,0 +1,23 @@
+2020-12-16 10:43:53,266 transaction bank.py:42 INFO: 用户:shawn向用户:song转账了1111元,扣除了手续费55.550000000000004元
+2020-12-16 10:43:55,774 transaction bank.py:16 INFO: 用户:shawn查看了余额
+2020-12-16 10:43:59,124 transaction bank.py:62 INFO: 用户:shawn从账户中取走了:333元
+2020-12-16 16:11:31,032 transaction bank.py:16 INFO: 用户:song查看了余额
+2020-12-16 16:12:09,569 transaction bank.py:42 INFO: 用户:shawn向用户:song转账了1111元,扣除了手续费55.550000000000004元
+2020-12-16 16:18:14,182 transaction bank.py:62 INFO: 用户:shawn从账户中取走了:12312元
+2020-12-16 16:18:21,578 transaction bank.py:16 INFO: 用户:shawn查看了余额
+2020-12-16 16:18:33,125 transaction bank.py:79 INFO: 用户:shawn存入了:454353元到账户
+2020-12-16 16:19:22,661 transaction bank.py:42 INFO: 用户:shawn向用户:song转账了12312元,扣除了手续费615.6元
+2020-12-16 16:20:09,247 transaction bank.py:62 INFO: 用户:song从账户中取走了:213元
+2020-12-16 16:20:13,158 transaction bank.py:79 INFO: 用户:song存入了:2312元到账户
+2020-12-16 16:20:16,394 transaction bank.py:16 INFO: 用户:song查看了余额
+2020-12-16 16:20:34,896 transaction bank.py:42 INFO: 用户:song向用户:shawn转账了12312元,扣除了手续费615.6元
+2020-12-16 16:21:58,270 transaction bank.py:42 INFO: 用户:shawn向用户:song转账了123元,扣除了手续费6.15元
+2020-12-16 16:22:25,570 transaction bank.py:42 INFO: 用户:shawn向用户:song转账了222222元,扣除了手续费11111.1元
+2020-12-16 16:23:51,517 transaction bank.py:42 INFO: 用户:shawn向用户:song转账了3333元,扣除了手续费166.65元
+2020-12-16 19:34:30,485 transaction bank.py:42 INFO: 用户:song向用户:shawn转账了123333元,扣除了手续费6166.650000000001元
+2020-12-16 19:47:51,591 transaction INFO: 
+2020-12-16 20:49:49,834 transaction INFO:  用户:shawn查看了余额
+2020-12-16 21:00:56,080 transaction INFO:  用户:shawn向用户:song转账了12312312元,扣除了手续费615615.60元
+2020-12-16 21:01:10,157 transaction INFO:  用户:shawn从账户中取走了:2222222元,扣除手续费:111111.10元
+2020-12-16 22:51:50,193 transaction INFO:  用户:shawn查看了余额
+2020-12-16 22:52:15,885 transaction INFO:  用户:shawn向用户:song转账了10元,扣除了手续费0.50元

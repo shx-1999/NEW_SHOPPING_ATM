@@ -1,0 +1,67 @@
+2020-12-16 10:42:25,635 login user.py:56 INFO: 用户:shawn注册成功
+2020-12-16 10:42:33,563 login user.py:56 INFO: 用户:song注册成功
+2020-12-16 10:42:46,612 login user.py:56 INFO: 用户:xing注册成功
+2020-12-16 10:43:43,089 login user.py:25 INFO: 用户:shawn登入了
+2020-12-16 10:44:02,333 login user.py:70 INFO: 用户:shawn查看了个人流水
+2020-12-16 14:57:34,838 login user.py:25 INFO: 用户:shawn登入了
+2020-12-16 14:57:38,489 login user.py:70 INFO: 用户:shawn查看了个人流水
+2020-12-16 14:58:19,409 login user.py:70 INFO: 用户:shawn查看了个人流水
+2020-12-16 14:58:21,904 login user.py:70 INFO: 用户:shawn查看了个人流水
+2020-12-16 16:11:12,572 login user.py:56 INFO: 用户:song注册成功
+2020-12-16 16:11:27,541 login user.py:25 INFO: 用户:song登入了
+2020-12-16 16:11:37,427 login user.py:70 INFO: 用户:song查看了个人流水
+2020-12-16 16:11:53,905 login user.py:25 INFO: 用户:shawn登入了
+2020-12-16 16:11:56,542 login user.py:70 INFO: 用户:shawn查看了个人流水
+2020-12-16 16:12:11,618 login user.py:70 INFO: 用户:shawn查看了个人流水
+2020-12-16 16:12:16,772 login user.py:70 INFO: 用户:shawn查看了个人流水
+2020-12-16 16:12:28,402 login user.py:25 INFO: 用户:shawn登入了
+2020-12-16 16:12:29,282 login user.py:70 INFO: 用户:shawn查看了个人流水
+2020-12-16 16:18:04,219 login user.py:70 INFO: 用户:shawn查看了个人流水
+2020-12-16 16:18:16,951 login user.py:70 INFO: 用户:shawn查看了个人流水
+2020-12-16 16:18:24,324 login user.py:70 INFO: 用户:shawn查看了个人流水
+2020-12-16 16:18:34,720 login user.py:70 INFO: 用户:shawn查看了个人流水
+2020-12-16 16:19:24,587 login user.py:70 INFO: 用户:shawn查看了个人流水
+2020-12-16 16:19:34,028 login user.py:25 INFO: 用户:song登入了
+2020-12-16 16:19:42,045 login user.py:70 INFO: 用户:song查看了个人流水
+2020-12-16 16:20:23,673 login user.py:70 INFO: 用户:song查看了个人流水
+2020-12-16 16:20:43,828 login user.py:70 INFO: 用户:song查看了个人流水
+2020-12-16 16:20:51,143 login user.py:25 INFO: 用户:shawn登入了
+2020-12-16 16:20:52,737 login user.py:70 INFO: 用户:shawn查看了个人流水
+2020-12-16 16:21:43,056 login user.py:25 INFO: 用户:shawn登入了
+2020-12-16 16:21:45,730 login user.py:70 INFO: 用户:shawn查看了个人流水
+2020-12-16 16:22:01,602 login user.py:70 INFO: 用户:shawn查看了个人流水
+2020-12-16 16:22:17,520 login user.py:70 INFO: 用户:shawn查看了个人流水
+2020-12-16 16:22:30,095 login user.py:70 INFO: 用户:shawn查看了个人流水
+2020-12-16 16:22:37,129 login user.py:25 INFO: 用户:song登入了
+2020-12-16 16:22:38,023 login user.py:70 INFO: 用户:song查看了个人流水
+2020-12-16 16:23:39,896 login user.py:25 INFO: 用户:shawn登入了
+2020-12-16 16:23:53,550 login user.py:70 INFO: 用户:shawn查看了个人流水
+2020-12-16 16:25:13,525 login user.py:25 INFO: 用户:shawn登入了
+2020-12-16 16:26:00,612 login shop.py:14 INFO: 用户:shawn查看了购物车
+2020-12-16 19:28:14,993 login user.py:25 INFO: 用户:shawn登入了
+2020-12-16 19:29:22,400 login user.py:25 INFO: 用户:shawn登入了
+2020-12-16 19:32:30,874 login user.py:25 INFO: 用户:shawn登入了
+2020-12-16 19:33:42,606 login user.py:25 INFO: 用户:shawn登入了
+2020-12-16 19:34:08,958 login user.py:25 INFO: 用户:song登入了
+2020-12-16 19:47:24,869 login INFO: 
+2020-12-16 19:49:01,153 login INFO:  用户:shawn登入了
+2020-12-16 20:43:50,369 login INFO:  用户:shawn登入了
+2020-12-16 20:43:59,981 login INFO:  用户:shawn查看了购物车
+2020-12-16 20:44:24,614 login INFO:  用户:shawn在商城消费了26299555元
+2020-12-16 20:44:56,804 login INFO:  用户:shawn在商城消费了60元
+2020-12-16 20:48:43,092 login INFO:  用户:shawn登入了
+2020-12-16 20:49:33,197 login INFO:  用户:shawn登入了
+2020-12-16 20:49:47,157 login INFO:  用户:shawn在商城消费了80元
+2020-12-16 20:49:52,841 login INFO:  用户:shawn查看了购物车
+2020-12-16 20:50:07,629 login INFO:  用户:shawn在商城消费了35955554元
+2020-12-16 20:50:08,702 login INFO:  用户:shawn查看了购物车
+2020-12-16 20:52:38,612 login INFO:  用户:shawn登入了
+2020-12-16 20:52:43,730 login INFO:  用户:shawn查看了个人流水
+2020-12-16 20:53:46,580 login INFO:  用户:song登入了
+2020-12-16 20:53:49,727 login INFO:  用户:song查看了个人流水
+2020-12-16 21:00:46,984 login INFO:  用户:shawn登入了
+2020-12-16 21:01:13,393 login INFO:  用户:shawn查看了个人流水
+2020-12-16 21:03:46,647 login INFO:  用户shawn已被锁定
+2020-12-16 21:19:33,103 login INFO:  用户:xing注册成功
+2020-12-16 22:51:22,940 login INFO:  用户shawn已经解除解锁
+2020-12-16 22:51:32,680 login INFO:  用户:shawn登入了
